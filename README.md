@@ -4,7 +4,7 @@ The analysis briefly explored the performance of Netflix kids using performance 
 The data was sourced from Netflix performance summary titled “What We Watched: A Netflix Engagement Report’” (https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report), <br>additional context was provided on Data science platform Medium ,with their article “3 Insights from the Netflix Dataset” authored by Amal Tyagi (https://medium.com/@amaltyagi/3-insights-from-the-netflix-dataset-21fb46e56cbb)
 
 <br>
-<br>
+
 ## Aim
 <br>
 The project simply sought to answer 3 simple  questions <br>
